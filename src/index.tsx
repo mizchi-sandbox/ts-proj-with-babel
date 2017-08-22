@@ -7,4 +7,4 @@ const a: number = 3
 console.log(a)
 foo()
 
-ReactDOM.render(<App title="Welcome" />, document.querySelector('main'))
+// ReactDOM.render(<App title="Welcome" />, document.querySelector('main'))
